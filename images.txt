@@ -1,1 +1,1 @@
-grafana:latest
+https://labs.play-with-docker.com/grafana/grafana:latest
