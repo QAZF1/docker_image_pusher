@@ -1,1 +1,1 @@
-zabbix/zabbix-server-mysql:6.0
+zabbix/zabbix-server-mysql:latest
